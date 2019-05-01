@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_deen.mk
+    $(LOCAL_DIR)/aosp_deen.mk
